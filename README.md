@@ -1,7 +1,7 @@
 # Sprunki Pyramixed
 ## What is Sprunki Pyramixed?
 
-![Sprunki Pyramixed]([sprunki-pyramixed.png](https://s.sprunkiscrunkly.com/img/games/sprunki-pyramixed.png) "Sprunki Pyramixed")
+![Sprunki Pyramixed](https://s.sprunkiscrunkly.com/img/games/sprunki-pyramixed.png "Sprunki Pyramixed")
 
 Welcome to Sprunki Pyramixed - a groundbreaking new chapter that takes the Sprunki universe to unprecedented heights! This innovative phase combines mystery and adventure, offering a unique blend of immersive soundscapes and captivating visuals.
 
