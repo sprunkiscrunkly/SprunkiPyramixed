@@ -3,7 +3,7 @@
 
 ![Sprunki Pyramixed](https://s.sprunkiscrunkly.com/img/games/sprunki-pyramixed.png "Sprunki Pyramixed")
 
-Welcome to Sprunki Pyramixed - a groundbreaking new chapter that takes the Sprunki universe to unprecedented heights! This innovative phase combines mystery and adventure, offering a unique blend of immersive soundscapes and captivating visuals.
+Welcome to [Sprunki Pyramixed](https://sprunkiscrunkly.com/sprunki-pyramixed/ "Sprunki Pyramixed") - a groundbreaking new chapter that takes the Sprunki universe to unprecedented heights! This innovative phase combines mystery and adventure, offering a unique blend of immersive soundscapes and captivating visuals.
 
 At its core, Sprunki Pyramixed features freshly designed characters that bring unique loops and effects to expand your musical possibilities. Each character contributes to the rich tapestry of sounds that make this phase truly special.
 
