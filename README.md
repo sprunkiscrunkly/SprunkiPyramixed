@@ -1,5 +1,8 @@
 # Sprunki Pyramixed
+
 ## What is Sprunki Pyramixed?
+
+👉👉 Click to play: [Sprunki Pyramixed](https://sprunkiscrunkly.com/sprunki-pyramixed/)
 
 ![Sprunki Pyramixed](https://s.sprunkiscrunkly.com/img/games/sprunki-pyramixed.png "Sprunki Pyramixed")
 
